@@ -1,0 +1,115 @@
+[[licensecheck]]
+arch = "aarch64"
+git-tree-sha1 = "ffbec4c3273a0521a5b9abf2203327964799a380"
+libc = "glibc"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "850ce9cfa3f5eecc8dd4c793138c4e67f425bb93ec0d7cb59e33e220c6dad3a6"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.aarch64-linux-gnu.tar.gz"
+[[licensecheck]]
+arch = "aarch64"
+git-tree-sha1 = "5fb9ed98d5e6bbb10fe39f96505b28f743cd3f18"
+libc = "musl"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "066d17f2bb46126d173cb20e976b64e3129076b84a6f4ef5e497923b0f97c881"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.aarch64-linux-musl.tar.gz"
+[[licensecheck]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6f9c0b67ce0998d0f03b8b73b7dd8b4e79ba616c"
+libc = "glibc"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "0e2caeaadc695332e337eed80662ebe7d39ba932ff7de67d0c991a35d1e4a54c"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[licensecheck]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c44cca410ff7023769c50f0dbd73327a5dff08f1"
+libc = "musl"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "344cb8919e307e2f6033ca01a3e68fce732d2e233412b40eb53f7c19f0cc8ff4"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.armv7l-linux-musleabihf.tar.gz"
+[[licensecheck]]
+arch = "i686"
+git-tree-sha1 = "58c9b43b12e2b37b95127568648c617a1dd014d6"
+libc = "glibc"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "143b759a69b2ccec0394e00abbd8874813e0ee12ae0dfb4dc9a799974b18eccb"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.i686-linux-gnu.tar.gz"
+[[licensecheck]]
+arch = "i686"
+git-tree-sha1 = "527b822964cb69033846440c9654714c9c2bac03"
+libc = "musl"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "0fc31a1fef93ab8602b1521c8b062c8974c6ef5a28f0261d627b636dee325425"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.i686-linux-musl.tar.gz"
+[[licensecheck]]
+arch = "i686"
+git-tree-sha1 = "7d877f46f076b37b28563dbe869c960fc50b00b0"
+os = "windows"
+
+    [[licensecheck.download]]
+    sha256 = "9abb11f2522d2f8959bd4c1228cc51d9c4a832c2228be5469834777c7a662c8b"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.i686-w64-mingw32.tar.gz"
+[[licensecheck]]
+arch = "powerpc64le"
+git-tree-sha1 = "37c15d77ceec272092174bfe7e4b2ea96f8f1b5f"
+libc = "glibc"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "8321553749d6b0bea472a560878632a9afc95e004163b9cd6e0c9389df2305d4"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.powerpc64le-linux-gnu.tar.gz"
+[[licensecheck]]
+arch = "x86_64"
+git-tree-sha1 = "b33611e27e4af73d03d0012cb4aa6e424aea3fdf"
+os = "macos"
+
+    [[licensecheck.download]]
+    sha256 = "c08f045167e051959cfab9c7d8651a3b6379c773570e7c2784c0a70fa2740a3e"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.x86_64-apple-darwin.tar.gz"
+[[licensecheck]]
+arch = "x86_64"
+git-tree-sha1 = "6b66687162bff4348dee6e2f52dabd115576bb15"
+libc = "glibc"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "80c6905438f6987b4c2ccc0d26c3cc1b68c3bd86b5235824a02f8e9667c929d8"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.x86_64-linux-gnu.tar.gz"
+[[licensecheck]]
+arch = "x86_64"
+git-tree-sha1 = "00e37bf44c7500d55ea7d498c1c0d8984c751740"
+libc = "musl"
+os = "linux"
+
+    [[licensecheck.download]]
+    sha256 = "bc0904e9d55f63e2134e4c824cf4c36e1b93e16e4b534b989baac7fb9eaa7a6f"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.x86_64-linux-musl.tar.gz"
+[[licensecheck]]
+arch = "x86_64"
+git-tree-sha1 = "7733ba0d2729445123c2824579624f71a5639bdf"
+os = "freebsd"
+
+    [[licensecheck.download]]
+    sha256 = "645b93f2c6fb53bad5476aa4a7afe16dae8bf21420d6287aca422d2c86b80bd6"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.x86_64-unknown-freebsd.tar.gz"
+[[licensecheck]]
+arch = "x86_64"
+git-tree-sha1 = "e0f02aa89130f5c44fe4962cf70ede9f15ab6f24"
+os = "windows"
+
+    [[licensecheck.download]]
+    sha256 = "9f27d2faee64f6a8eeb44f5a7fa0397d36e8844fe67d4617fd5a33d71f3bb4aa"
+    url = "https://github.com/JuliaBinaryWrappers/licensecheck_jll.jl/releases/download/licensecheck-v0.3.1+0/licensecheck.v0.3.1.x86_64-w64-mingw32.tar.gz"
